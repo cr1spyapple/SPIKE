@@ -11638,7 +11638,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 121.92 108.712 90)
 			(hide yes)
 			(show_name no)
@@ -11671,7 +11671,7 @@
 				)
 			)
 		)
-		(property "MNF PART NUMBER" "C17561"
+		(property "MNF PART NUMBER" "C23345"
 			(at 121.92 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -12172,7 +12172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 124.46 164.592 90)
 			(hide yes)
 			(show_name no)
@@ -12205,7 +12205,7 @@
 				)
 			)
 		)
-		(property "MNF PART NUMBER" "C17902"
+		(property "MNF PART NUMBER" "C25804"
 			(at 124.46 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -14077,7 +14077,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 211.7852 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -14110,7 +14110,7 @@
 				)
 			)
 		)
-		(property "MNF PART NUMBER" "C15195"
+		(property "MNF PART NUMBER" "C57112"
 			(at 210.82 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -14764,7 +14764,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_01005_0402Metric"
+		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
 			(at 177.8 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -14797,7 +14797,7 @@
 				)
 			)
 		)
-		(property "MNF PART NUMBER" "C74301"
+		(property "MNF PART NUMBER" "C139271"
 			(at 177.8 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -15030,7 +15030,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 201.93 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -15063,7 +15063,7 @@
 				)
 			)
 		)
-		(property "MNF PART NUMBER" "C86125"
+		(property "MNF PART NUMBER" "C370234"
 			(at 201.93 22.86 90)
 			(hide yes)
 			(show_name no)
@@ -19775,7 +19775,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 121.92 106.172 90)
 			(hide yes)
 			(show_name no)
@@ -19808,7 +19808,7 @@
 				)
 			)
 		)
-		(property "MNF PART NUMBER" "C17561"
+		(property "MNF PART NUMBER" "C23345"
 			(at 121.92 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -21156,7 +21156,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 255.778 36.83 90)
 			(hide yes)
 			(show_name no)
@@ -21189,7 +21189,7 @@
 				)
 			)
 		)
-		(property "MNF PART NUMBER" "C17902"
+		(property "MNF PART NUMBER" "C25804"
 			(at 254 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -22268,7 +22268,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 281.178 36.83 90)
 			(hide yes)
 			(show_name no)
@@ -22301,7 +22301,7 @@
 				)
 			)
 		)
-		(property "MNF PART NUMBER" "C17902"
+		(property "MNF PART NUMBER" "C25804"
 			(at 279.4 36.83 0)
 			(hide yes)
 			(show_name no)
