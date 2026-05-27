@@ -20,3 +20,41 @@ Designed in KiCAD as part of STASIS for Hack Club. I took up this project to lea
 ## PCB Traces
 <img src="Pics/Front_Trace.png" style="width:45%; height:auto;">
 <img src="Pics/Back_Trace.png" style="width:45%; height:auto;">
+
+## Bill of Materials
+
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+| --- | --- | --- | --- | --- | --- |
+| 100mW 100kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS |  | 100 | 0.14 | https://www.lcsc.com/product-detail/C14675.html |  |
+| Crystal 40MHz ±10ppm 15pF SMD3225-4P |  | 10 | 0.68 | https://www.lcsc.com/product-detail/C5444549.html |  |
+| 453kΩ ±0.1% 100mW 0603 Thin Film Resistor |  | 20 | 0.48 | https://www.lcsc.com/product-detail/C2686428.html |  |
+| 75Ω ±1% 100mW 0603 Thick Film Resistor |  | 100 | 0.17 | https://www.lcsc.com/product-detail/C4275.html |  |
+| SOP-8L Memory (ICs) RoHS |  | 2 | 8.93 | https://www.lcsc.com/product-detail/C3028887.html |  |
+| 1.5MHz Step-down type Adjustable 600mV~5.5V 2A SOT-563 Voltage Regulators - DC DC Switching Regulators RoHS |  | 5 | 0.54 | https://www.lcsc.com/product-detail/C163217.html |  |
+| -98.4dBm 150Mbps 2.412GHz~2.484GHz 2.4GHz 3V~3.6V QFN-56-EP(7x7) RF Transceiver ICs RoHS |  | 3 | 9.06 | https://www.lcsc.com/product-detail/C2913192.html |  |
+| Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount |  | 10 | 0.54 | https://www.lcsc.com/product-detail/C720477.html |  |
+| 10uF ±20% 25V Ceramic Capacitor X5R 0603 |  | 20 | 0.45 | https://www.lcsc.com/product-detail/C96446.html |  |
+| 22Ω ±5% 100mW 0603 Thick Film Resistor |  | 100 | 0.11 | https://www.lcsc.com/product-detail/C2907129.html |  |
+| 5.1kΩ ±1% 100mW 0603 Thick Film Resistor |  | 100 | 0.12 | https://www.lcsc.com/product-detail/C2907044.html |  |
+| 0Ω 125mW 200V Thick Film Resistor 0805 Chip Resistor - Surface Mount RoHS |  | 100 | 0.63 | https://www.lcsc.com/product-detail/C844934.html |  |
+| 499Ω ±1% 62.5mW 0402 Thick Film Resistor |  | 100 | 0.07 | https://www.lcsc.com/product-detail/C4125.html |  |
+| 800mA 2.4nH 80mΩ Multilayer inductor 0402 Fixed Inductors RoHS |  | 10 | 0.10 | https://www.lcsc.com/product-detail/C275281.html |  |
+| 2A 1uH ±20% 95mΩ 3.1A 0805 Fixed Inductors RoHS |  | 5 | 1.05 | https://www.lcsc.com/product-detail/C1331798.html |  |
+| 140mA 24nH ±3% 2.3Ω Thick Film Inductor 0201 Fixed Inductors RoHS |  | 100 | 0.76 | https://www.lcsc.com/product-detail/C206441.html |  |
+| 500mA 2nH 100mΩ 0603 Fixed Inductors RoHS |  | 50 | 0.66 | https://www.lcsc.com/product-detail/C395081.html |  |
+| USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount |  | 5 | 0.86 | https://www.lcsc.com/product-detail/C165948.html |  |
+| Red 645nm LED Indication - Discrete 2.4V 0603 |  | 100 | 0.67 | https://www.lcsc.com/product-detail/C2286.html |  |
+| 22uF ±20% 10V Ceramic Capacitor X5R 0603 |  | 10 | 0.16 | https://www.lcsc.com/product-detail/C86295.html |  |
+| 10nF ±10% 50V Ceramic Capacitor X7R 0603 |  | 100 | 0.26 | https://www.lcsc.com/product-detail/C100042.html |  |
+| 4.7uF ±10% 16V Ceramic Capacitor X5R 0603 |  | 10 | 0.11 | https://www.lcsc.com/product-detail/C19666.html |  |
+| 1.2pF 50V Ceramic Capacitor C0G 0402 |  | 50 | 1.09 | https://www.lcsc.com/product-detail/C76899.html |  |
+| 100nF ±10% 16V Ceramic Capacitor X7R 0402 |  | 100 | 0.11 | https://www.lcsc.com/product-detail/C60474.html |  |
+| 1uF ±10% 16V Ceramic Capacitor X5R 0402 |  | 100 | 0.30 | https://www.lcsc.com/product-detail/C29266.html |  |
+| 20pF ±5% 50V Ceramic Capacitor C0G 0402 |  | 100 | 0.40 | https://www.lcsc.com/product-detail/C76959.html |  |
+| 2.7V~3.6V 128Mbit 133MHz SPI SOIC-8-208mil Memory (ICs) RoHS |  | 3 | 6.80 | https://www.lcsc.com/product-detail/C97521.html |  |
+| 10kΩ ±5% 100mW 0603 Thick Film Resistor |  | 100 | 0.10 | https://www.lcsc.com/product-detail/C2930027.html |  |
+| Header pins | Header pins for PCB | 1 | 2.12 | https://www.aliexpress.com/item/1005008703085861.html?search_p4p_id=202605091107184238603551627500001818552_9 | Aliexpress |
+| Soldering paste (20g) | Soldering components | 1 | 3.89 | https://www.aliexpress.com/item/1005009377104599.html?mp=1 | Aliexpress |
+| Hot Plate | Soldering SMD components | 1 | 15.17 | https://www.aliexpress.com/item/1005007016135854.html?mp=1 | Aliexpress |
+| 65W Type-C power adapter | Power supply for Hot Plate | 1 | 10.89 | https://www.ebay.co.uk/itm/389986740245 | Ebay |
+| PCB | PCB | 5 | 1.50 |  | JLCPCB |
