@@ -1,0 +1,29 @@
+﻿Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
+1,C96446,CL10A106MA8NRNC,Samsung Electro-Mechanics,0603,"C3, C19",10uF ±20% 25V Ceramic Capacitor X5R 0603,yes,20,20,20,0.0307,0.61,https://www.lcsc.com/product-detail/C96446.html
+2,C5444549,XL2EL89CPI-111YLC-40M,YXC Crystal Oscillators,SMD3225-4P,Y1,Crystal 40MHz ±10ppm 15pF SMD3225-4P,yes,10,10,10,0.0693,0.69,https://www.lcsc.com/product-detail/C5444549.html
+3,C3028887,APS6404L-3SQN-SN,AP Memory,SOP-8L,U6,SOP-8L Memory (ICs) RoHS,yes,2,1,1,4.4673,8.93,https://www.lcsc.com/product-detail/C3028887.html
+4,C163217,TLV62569DRLR,TI,SOT-563,U5,1.5MHz Step-down type Adjustable 600mV~5.5V 2A SOT-563 Voltage Regulators - DC DC Switching Regulators RoHS,yes,5,5,5,0.1179,0.59,https://www.lcsc.com/product-detail/C163217.html
+5,C2913192,ESP32-S3,ESPRESSIF,QFN-56-EP(7x7),U1,-98.4dBm 150Mbps 2.412GHz~2.484GHz 2.4GHz 3V~3.6V QFN-56-EP(7x7) RF Transceiver ICs RoHS,yes,3,1,1,3.0192,9.06,https://www.lcsc.com/product-detail/C2913192.html
+6,C720477,TS-1088-AR02016,XUNPU,"SMD,4x3mm",SW1,Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount,yes,10,10,10,0.0569,0.57,https://www.lcsc.com/product-detail/C720477.html
+7,C14675,RC0603FR-07100KL,YAGEO,0603,R30,100mW 100kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0015,0.15,https://www.lcsc.com/product-detail/C14675.html
+8,C2686428,ARG03BTC4533,Viking,0603,R29,453kΩ ±0.1% 100mW 0603 Thin Film Resistor,yes,20,20,20,0.0241,0.48,https://www.lcsc.com/product-detail/C2686428.html
+9,C4275,0603WAF750JT5E,UNI-ROYAL,0603,R15,75Ω ±1% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0019,0.19,https://www.lcsc.com/product-detail/C4275.html
+10,C2907129,FRC0603J220 TS,FOJAN,0603,"R10, R11",22Ω ±5% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0012,0.12,https://www.lcsc.com/product-detail/C2907129.html
+11,C2907044,FRC0603F5101TS,FOJAN,0603,"R8, R9",5.1kΩ ±1% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0013,0.13,https://www.lcsc.com/product-detail/C2907044.html
+12,C844934,CRCW08050000Z0EA,VISHAY,0805,"R3, R4, R5, R6, R7, R12",0Ω 125mW 200V Thick Film Resistor 0805 Chip Resistor - Surface Mount RoHS,yes,100,10,10,0.0063,0.63,https://www.lcsc.com/product-detail/C844934.html
+13,C4125,0402WGF4990TCE,UNI-ROYAL,0402,R2,499Ω ±1% 62.5mW 0402 Thick Film Resistor,yes,100,100,100,0.0007,0.07,https://www.lcsc.com/product-detail/C4125.html
+14,C275281,MLG1005S2N4BT000,TDK,0402,L5,800mA 2.4nH 80mΩ Multilayer inductor 0402 Fixed Inductors RoHS,yes,10,10,10,0.0095,0.10,https://www.lcsc.com/product-detail/C275281.html
+15,C1331798,DFE201210U-1R0M=P2,muRata,0805,L4,2A 1uH ±20% 95mΩ 3.1A 0805 Fixed Inductors RoHS,yes,5,5,5,0.2100,1.05,https://www.lcsc.com/product-detail/C1331798.html
+16,C206441,LQP03TN24NH02D,muRata,0201,L2,140mA 24nH ±3% 2.3Ω Thick Film Inductor 0201 Fixed Inductors RoHS,yes,100,100,100,0.0084,0.84,https://www.lcsc.com/product-detail/C206441.html
+17,C395081,VHF160808H2N0ST,FH,0603,L1,500mA 2nH 100mΩ 0603 Fixed Inductors RoHS,yes,50,50,50,0.0130,0.65,https://www.lcsc.com/product-detail/C395081.html
+18,C165948,TYPE-C-31-M-12,Korean Hroparts Elec,SMD,J5,USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount,yes,5,5,5,0.1877,0.94,https://www.lcsc.com/product-detail/C165948.html
+19,C2286,KT-0603R,Hubei KENTO Elec,0603,D1,Red 645nm LED Indication - Discrete 2.4V 0603,yes,100,100,100,0.0070,0.70,https://www.lcsc.com/product-detail/C2286.html
+20,C86295,CL10A226MP8NUNE,Samsung Electro-Mechanics,0603,C39,22uF ±20% 10V Ceramic Capacitor X5R 0603,yes,10,10,10,0.0211,0.21,https://www.lcsc.com/product-detail/C86295.html
+21,C100042,CC0603KRX7R9BB103,YAGEO,0603,C33,10nF ±10% 50V Ceramic Capacitor X7R 0603,yes,100,100,100,0.0037,0.37,https://www.lcsc.com/product-detail/C100042.html
+22,C19666,CL10A475KO8NNNC,Samsung Electro-Mechanics,0603,C16,4.7uF ±10% 16V Ceramic Capacitor X5R 0603,yes,10,10,10,0.0140,0.14,https://www.lcsc.com/product-detail/C19666.html
+23,C76899,GJM1555C1H1R2WB01D,muRata,0402,"C11, C12",1.2pF 50V Ceramic Capacitor C0G 0402,yes,50,50,50,0.0358,1.79,https://www.lcsc.com/product-detail/C76899.html
+24,C60474,CC0402KRX7R7BB104,YAGEO,0402,"C5, C6, C7, C9, C10",100nF ±10% 16V Ceramic Capacitor X7R 0402,yes,100,100,100,0.0016,0.16,https://www.lcsc.com/product-detail/C60474.html
+25,C29266,CL05A105KO5NNNC,Samsung Electro-Mechanics,0402,"C4, C8, C22, C23, C34",1uF ±10% 16V Ceramic Capacitor X5R 0402,yes,100,100,100,0.0038,0.38,https://www.lcsc.com/product-detail/C29266.html
+26,C76959,GRM1555C1H200JA01D,muRata,0402,"C1, C2",20pF ±5% 50V Ceramic Capacitor C0G 0402,yes,100,100,100,0.0057,0.57,https://www.lcsc.com/product-detail/C76959.html
+27,C97521,W25Q128JVSIQ,Winbond,SOIC-8-208mil,,2.7V~3.6V 128Mbit 133MHz SPI SOIC-8-208mil Memory (ICs) RoHS,yes,3,1,1,2.6399,7.92,https://www.lcsc.com/product-detail/C97521.html
+28,C2930027,FRC0603J103 TS,FOJAN,0603,,10kΩ ±5% 100mW 0603 Thick Film Resistor,-,100,100,100,0.0011,0.11,https://www.lcsc.com/product-detail/C2930027.html
